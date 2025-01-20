@@ -33,20 +33,13 @@ pip install streamlit requests
 
 ## How to Run
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-repo/color-palette-generator.git
-   cd color-palette-generator
-   ```
-
-2. Start the Streamlit application:
+1. Start the Streamlit application:
 
    ```bash
    streamlit run main.py
    ```
 
-3. Open the application in your browser using the provided URL (usually `http://localhost:8501`).
+2. Open the application in your browser using the provided URL (usually `http://localhost:8501`).
 
 ---
 
